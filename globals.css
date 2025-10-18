@@ -1,0 +1,8 @@
+:root{
+  --bg:#ffffff;
+  --text:#0b1220;
+}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,Arial}
+main{max-width:1000px;margin:48px auto;padding:0 20px}
+h1{font-size:32px;margin:0 0 8px}
+p{margin:8px 0;color:#334155}
