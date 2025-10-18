@@ -1,0 +1,9 @@
+export default function Page() {
+  return (
+    <main style={{ padding: 36, fontFamily: "Inter, system-ui, Arial", color: "#0b1220" }}>
+      <h1>Bulgaria Web Studio</h1>
+      <p>Сайтът е успешно настроен с минимален Next.js app router.</p>
+      <p>Добави свои компоненти, стилове и съдържание тук — след push Vercel ще направи нов билд.</p>
+    </main>
+  );
+}
